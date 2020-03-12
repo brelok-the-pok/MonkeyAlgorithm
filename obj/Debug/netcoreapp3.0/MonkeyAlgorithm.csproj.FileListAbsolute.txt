@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\MonkeyAlgorithm\obj\Debug\netcoreapp3.0\MonkeyAlgorithm.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MonkeyAlgorithm\obj\Debug\netcoreapp3.0\MonkeyAlgorithm.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MonkeyAlgorithm\obj\Debug\netcoreapp3.0\MonkeyAlgorithm.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.exe
+C:\Users\Admin\source\repos\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.deps.json
+C:\Users\Admin\source\repos\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.runtimeconfig.json
+C:\Users\Admin\source\repos\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.dll
+C:\Users\Admin\source\repos\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.pdb
+C:\Users\Admin\source\repos\MonkeyAlgorithm\obj\Debug\netcoreapp3.0\MonkeyAlgorithm.dll
+C:\Users\Admin\source\repos\MonkeyAlgorithm\obj\Debug\netcoreapp3.0\MonkeyAlgorithm.pdb
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.exe
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.deps.json
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.runtimeconfig.json
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.runtimeconfig.dev.json
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.dll
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\bin\Debug\netcoreapp3.0\MonkeyAlgorithm.pdb
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\obj\Debug\netcoreapp3.0\MonkeyAlgorithm.csprojAssemblyReference.cache
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\obj\Debug\netcoreapp3.0\MonkeyAlgorithm.AssemblyInfoInputs.cache
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\obj\Debug\netcoreapp3.0\MonkeyAlgorithm.AssemblyInfo.cs
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\obj\Debug\netcoreapp3.0\MonkeyAlgorithm.dll
+D:\Study\3kurs\Методы оптимизации\Сема\MonkeyAlgorithm\obj\Debug\netcoreapp3.0\MonkeyAlgorithm.pdb
